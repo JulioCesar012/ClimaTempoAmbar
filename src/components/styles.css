@@ -1,0 +1,123 @@
+.cards {
+  width: 100% auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 2rem;
+  background-color: rgba(255, 255, 255, 0.171);
+  border: 3px solid rgba(139, 139, 139, 0.158);
+  border-radius: 4px;
+  align-items: center;
+}
+
+.grid1 {
+  width: 100%;
+  display: block;
+}
+
+.grid2 h1 {
+  display: flex;
+  margin-top: 3rem;
+  font-size: 22px;
+}
+
+.grid2 h1 span + span {
+  margin-left: 25px;
+}
+
+.grid2 {
+  align-self: center;
+}
+
+.div-icone-nuvem {
+}
+
+.div-icone-nuvem h1 span + span {
+  margin-left: 25px;
+}
+
+.div-icone-nuvem h1 {
+  display: flex;
+  margin-top: 3rem;
+  font-size: 22px;
+}
+
+.textos-components {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 2.5rem;
+}
+
+.titulo-inicial {
+  text-align: center;
+  color: #fff;
+}
+
+.botao-navbar {
+  background-color: #fff;
+  color: #fff;
+  border-radius: 4px;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.botao-inferior {
+  background-color: #000;
+}
+
+.box-buscas-recentes {
+  width: 100% auto;
+  margin: 0;
+  border-radius: 4px;
+  background-color: #fff;
+  padding: 0;
+}
+
+.titulo-inicial h1 {
+  margin-top: 4rem;
+}
+
+.inputCidade {
+  width: 100%;
+  height: 2.8rem;
+  background-color: #fff;
+  padding: 10px;
+  color: #000;
+  border: 0;
+  border-radius: 3px;
+}
+
+.inputCidade:focus {
+  box-shadow: none !important;
+}
+
+.efeito-loading {
+  text-align: center;
+}
+
+.titulo-erro {
+  text-align: center;
+  color: rgb(245, 54, 54);
+}
+
+.icone-nuvem {
+  margin-left: 6rem;
+  width: 150px;
+}
+
+@media (max-width: 640px) {
+  .container {
+    align-items: center;
+    display: block;
+  }
+  .cards {
+    display: block;
+    margin-bottom: 3rem;
+  }
+
+  .textos-components {
+    align-items: center;
+    width: 100%;
+    font-size: 30px;
+    justify-content: space-between;
+  }
+}

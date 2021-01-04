@@ -1,0 +1,4 @@
+export const SET_LOADING = "SET_LOADING";
+export const DADOS_CARREGADOS = "DADOS_CARREGADOS";
+export const SET_ERRORS = "SET_ERRORS";
+export const SET_BOTAO_NAVBAR = "SET_BOTAO_NAVBAR";
