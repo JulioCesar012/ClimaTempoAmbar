@@ -68,6 +68,8 @@ Projeto para busca de temperatura atual, máxima e miníma de cidades.
     - redux-thunk
 ---
 
+Teste a aplicação online [clicando aqui][linkapp]
+
 ## 📷 Outras Imagens
 
 <h2 align="center">
@@ -98,3 +100,5 @@ Projeto para busca de temperatura atual, máxima e miníma de cidades.
 - De @JulioCesar012 para Processo Seletivo Ambar
 
 Feito com muito 💚 e muito ☕!
+
+[linkapp]https://climatempo2021.herokuapp.com
