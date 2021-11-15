@@ -74,9 +74,9 @@ Teste a aplicação online [clicando aqui][linkapp]
 
 <div align="center">
     <div style="display: flex; align-items: flex-start;">
-        <img src="src/assets/BuscaRecentes.png" width="460px">
+        <img src="src/assets/BuscaRecentes.png" width="300px">
         &nbsp;&nbsp;
-        <img src="src/assets/ErroInserirCidade.png" width="460px">
+        <img src="src/assets/ErroInserirCidade.png" width="300px">
     </div>
 </div>
 
