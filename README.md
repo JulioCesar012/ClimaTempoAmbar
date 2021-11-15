@@ -94,7 +94,7 @@ Teste a aplicação online [clicando aqui][linkapp]
 
 
 <h2 align="center">
-## 👨‍💻 Developer
+👨‍💻 Developer
 
 De @JulioCesar012 para Processo Seletivo Ambar
 
