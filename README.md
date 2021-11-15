@@ -60,12 +60,12 @@ Projeto para busca de temperatura atual, máxima e miníma de cidades.
 
 * 🗃️ Outras Bibliotecas que usei:
 
-    - <img href="https://material-ui.com/pt/" src="https://img.shields.io/badge/-Material UI-2786E5?logo=material-ui&logoColor=white&labelColor=2786E5" alt="Material UI" />
+* <img href="https://material-ui.com/pt/" src="https://img.shields.io/badge/-Material UI-2786E5?logo=material-ui&logoColor=white&labelColor=2786E5" alt="Material UI" />
 
-    * redux-devtools-extension
-    * redux-logger
-    * redux-persist
-    * redux-thunk
+* redux-devtools-extension
+* redux-logger
+* redux-persist
+* redux-thunk
 ---
 
 Teste a aplicação online [clicando aqui][linkapp]
