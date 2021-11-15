@@ -22,11 +22,11 @@ Projeto para busca de temperatura atual, máxima e miníma de cidades.
 
 - ✅ Um dos pontos a destacar é que pode pesquisar qualquer cidade incluindo de outro país. Um dos diferenciais foi isso. Eu optei por fazer inputs onde captura a cidade que o usuário digitar, assim não fica limitado a tres cidades apenas.
 
-* Algumas personalizações: Fiz o uso do efeito ThreeDots da biblioteca react-loader-spinner para o carregamento de dados, para ter um pouco mais de interação. Além disso também coloquei Alert de erro para quando o usuário esquecer de digitar a cidade ou a mesma não ser encontrada.
+* ✅ Algumas personalizações: Fiz o uso do efeito ThreeDots da biblioteca react-loader-spinner para o carregamento de dados, para ter um pouco mais de interação. Além disso também coloquei Alert de erro para quando o usuário esquecer de digitar a cidade ou a mesma não ser encontrada.
 
 * OBS: Se o resultado for igual pra ambas temperaturas, é normal, pois ele faz calculo aproximado, e certas cidades acontecem de ter a temperatura minima e máxima iguais a atual. Experimente cidades como Paraná, São Paulo e Rio de Janeiro, essas a temperatura fica normal.
 
-❗Você precisa configurar todo o ambiente react.js instalando suas dependencias através de um dos comandos abaixo:
+* Você precisa configurar todo o ambiente react.js instalando suas dependencias através de um dos comandos abaixo:
 
 - <img src="https://img.shields.io/badge/-Nodejs-026e00?logo=Node.js&logoColor=white&labelColor=026e00" alt="Javascript" /> - npm install
 
@@ -62,10 +62,10 @@ Projeto para busca de temperatura atual, máxima e miníma de cidades.
 
     - <img href="https://material-ui.com/pt/" src="https://img.shields.io/badge/-Material UI-2786E5?logo=material-ui&logoColor=white&labelColor=2786E5" alt="Material UI" />
 
-    - redux-devtools-extension
-    - redux-logger
-    - redux-persist
-    - redux-thunk
+    * redux-devtools-extension
+    * redux-logger
+    * redux-persist
+    * redux-thunk
 ---
 
 Teste a aplicação online [clicando aqui][linkapp]
