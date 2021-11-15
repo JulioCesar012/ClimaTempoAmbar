@@ -72,33 +72,33 @@ Teste a aplicação online [clicando aqui][linkapp]
 
 ## 📷 Outras Imagens
 
-<h2 align="center">
-    <img src="src/assets/BuscaRecentes.png">
-</h2>
+<div align="center">
+    <div style="display: flex; align-items: flex-start;">
+        <img src="src/assets/BuscaRecentes.png" width="460px">
+        &nbsp;&nbsp;
+        <img src="src/assets/ErroInserirCidade.png" width="460px">
+    </div>
+</div>
+
+ <h2 align="center">
+     <img src="src/assets/CidadeNaoEncontrada.png">
+ </h2>
+
+<div align="center">
+    <div style="display: flex; align-items: flex-start;">
+        <img width="250px" src="src/assets/TelaInicialMobile1.jpeg">
+        &nbsp;&nbsp;
+        <img width="250px" src="src/assets/TelaInicialMobile3.jpeg">
+    </div>
+</div>
 
 
 <h2 align="center">
-    <img src="src/assets/ErroInserirCidade.png">
-</h2>
-
-
-<h2 align="center">
-    <img src="src/assets/CidadeNaoEncontrada.png">
-</h2>
-
-<h2 align="center">
-    <img width="250px" src="src/assets/TelaInicialMobile1.jpeg">
-</h2>
-
-<h2 align="center">
-    <img width="250px" src="src/assets/TelaInicialMobile3.jpeg">
-</h2>
-
-
 ## 👨‍💻 Developer
 
-- De @JulioCesar012 para Processo Seletivo Ambar
+De @JulioCesar012 para Processo Seletivo Ambar
 
 Feito com muito 💚 e muito ☕!
+</h2>
 
 [linkapp]:https://climatempo2021.herokuapp.com
